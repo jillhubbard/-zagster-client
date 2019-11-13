@@ -1,6 +1,6 @@
 $(updateView)
 function updateView() {
-    alert("Using jQuery!")
+    alert("It's me, Mario!")
 }
 
 
