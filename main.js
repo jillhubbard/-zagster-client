@@ -1,1 +1,8 @@
-alert("Hi there!")
+$(updateView)
+function updateView() {
+    alert("Using jQuery!")
+}
+
+
+
+
